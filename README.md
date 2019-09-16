@@ -1,4 +1,4 @@
-# Dat Project Governance 
+# Dat Project Governance
 
 Dat Project and Dat Protocol are led by three teams:
 
@@ -11,7 +11,7 @@ In creating these leadership teams and working groups, we aim to ensure a wide v
 ## Governance Team
 
 * [Mathias Buss](https://github.com/mafintosh)
-* [Karissa McKelvey](https://github.com/karissa)
+* [Karissa McKelvey](https://github.com/okdistribute)
 * [Joe Hand](https://github.com/joehand)
 * [Danielle Robinson](https://github.com/daniellecrobinson)
 
